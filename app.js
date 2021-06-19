@@ -82,7 +82,7 @@ function detalheFilme(evt) {
     <img src="${imagem}" class="card-img-top" alt="...">
     <div>
       <p><b>Sinopse: </b>${sinopse}</p>
-      <p><b>Data de lançameto: </b>${dataFormatada}</p>
+      <p><b>Data de lançamento: </b>${dataFormatada}</p>
       <p><b>Nota: </b>${nota}</p>
     </div>
     </div>
